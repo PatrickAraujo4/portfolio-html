@@ -22,9 +22,6 @@ A página tem como objetivo me apresentar de forma profissional, destacando quem
  ┣ 📄 index.html
 ```
 
-## 📸 Visual
-
-(Adicione aqui uma imagem de como a página está visualmente, se quiser)
 
 ## 🔗 Minhas redes
 
